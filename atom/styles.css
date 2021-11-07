@@ -1,0 +1,29 @@
+h1 {
+  font-size: 75px;
+  background-color: grey;
+}
+
+body {
+  background-color: blue;
+  margin: 0;
+}
+
+img {
+  position: relative;
+  left: 100px;
+  width: 400px;
+  height: 400px;
+  background-color: orange;
+}
+.hedger {
+  background-color: grey;
+}
+a {
+  background-color: black;
+}
+div {
+  background-color: #544179;
+}
+.contactme {
+  background-color: orange;
+}
